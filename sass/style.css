@@ -509,6 +509,9 @@ h5 {
   margin-left: 9px;
 }
 
+.logo-svg {
+  cursor: pointer;
+}
 .logo-svg:hover .logo-path {
   fill: #FF9900;
 }
