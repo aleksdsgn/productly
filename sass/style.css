@@ -639,7 +639,6 @@ h5 {
 .header__buttons > .button {
   margin-left: 14px;
 }
-
 .header__buttons > .button:first-child {
   margin-left: 0;
 }
