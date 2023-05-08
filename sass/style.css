@@ -750,6 +750,11 @@ h5 {
   margin: 0 0 30px;
 }
 
+.promo__buttons {
+  display: flex;
+  align-items: center;
+}
+
 .promo__buttons > * {
   margin-right: 44px;
 }
@@ -803,7 +808,7 @@ h5 {
 }
 
 .tool__title {
-  margin: 0 0 26px;
+  margin: 0 0 16px;
 }
 
 .strategies {
@@ -820,6 +825,10 @@ h5 {
 
 .strategies__tags {
   margin-bottom: 31px;
+}
+
+.strategy {
+  cursor: pointer;
 }
 
 .strategy-wrapper > * {
