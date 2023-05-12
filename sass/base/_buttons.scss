@@ -6,6 +6,7 @@
   font-size: 1.6rem;
   line-height: 2.2rem;
   border-radius: 4px;
+  white-space: nowrap;
   cursor: pointer;
   @extend %transition;
 
@@ -36,6 +37,7 @@
   display: inline-flex;
   align-items: center;
   transition: .3s;
+  white-space: nowrap;
 
   &:hover {
     color: $color-additional;
