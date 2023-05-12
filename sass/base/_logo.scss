@@ -3,6 +3,7 @@
 }
 
 .logo-object {
+  height: 32px;
   @include media-mobile {
     width: 160px;
   }
